@@ -1,4 +1,4 @@
-<link href="../tree/master/js/styles.css" rel="stylesheet"></link>
+<link href="js/styles.css" rel="stylesheet"></link>
 <h1>Counter App</h1>
 
 ### This is the first project of the course _"React: De cero a experto"_ created by The Udemy's Professor: Fernando Herrera, this is the introduction to said course. Inside it are two different directories
